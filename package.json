@@ -1,0 +1,25 @@
+{
+  "name": "odessajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo \"This is build of node js application. Build was successful\"",
+    "test": "echo \"Tests passed: no test specified\" "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maltez/odessajs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maltez/odessajs/issues"
+  },
+  "homepage": "https://github.com/maltez/odessajs#readme",
+  "dependencies": {
+    "http-status-codes": "^1.3.2"
+  }
+}
