@@ -8,6 +8,7 @@ node {
     }
     
     stage('build') {
+        sh "echo Hello!!!!"
         sh 'npm run build'
     }
     
